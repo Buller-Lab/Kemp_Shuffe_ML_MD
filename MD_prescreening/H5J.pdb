@@ -1,0 +1,33 @@
+HETATM    1  CAC H5J B   1      23.807  17.178 -24.585  0.00  0.00           C  
+HETATM    2  CAD H5J B   1      24.279  15.895 -24.412  0.00  0.00           C  
+HETATM    3  CAE H5J B   1      26.217  15.169 -27.381  0.00  0.00           C  
+HETATM    4  CAF H5J B   1      24.885  17.338 -26.713  0.00  0.00           C  
+HETATM    5  CAI H5J B   1      24.107  17.892 -25.736  0.00  0.00           C  
+HETATM    6  CAJ H5J B   1      25.379  16.041 -26.555  0.00  0.00           C  
+HETATM    7  CAK H5J B   1      25.073  15.313 -25.393  0.00  0.00           C  
+HETATM    8  NAG H5J B   1      26.367  14.051 -26.738  0.00  0.00           N  
+HETATM    9  NAL H5J B   1      23.585  19.267 -25.904  0.00  0.00           N  
+HETATM   10  OAA H5J B   1      22.886  19.764 -25.038  0.00  0.00           O  
+HETATM   11  OAB H5J B   1      23.850  19.900 -26.910  0.00  0.00           O  
+HETATM   12  OAH H5J B   1      25.672  14.111 -25.509  0.00  0.00           O  
+HETATM   13  H01 H5J B   1      23.192  17.636 -23.810  0.00  0.00           H  
+HETATM   14  H02 H5J B   1      24.030  15.338 -23.508  0.00  0.00           H  
+HETATM   15  H03 H5J B   1      26.638  15.414 -28.356  0.00  0.00           H  
+HETATM   16  H04 H5J B   1      25.119  17.906 -27.613  0.00  0.00           H  
+CONECT    1    2    5   13
+CONECT    2    1    7   14
+CONECT    3    6    8   15
+CONECT    4    5    6   16
+CONECT    5    1    4    9
+CONECT    6    3    4    7
+CONECT    7    2    6   12
+CONECT    8    3   12
+CONECT    9    5   10   11
+CONECT   10    9
+CONECT   11    9
+CONECT   12    7    8
+CONECT   13    1
+CONECT   14    2
+CONECT   15    3
+CONECT   16    4
+END
