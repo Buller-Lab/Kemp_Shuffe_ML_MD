@@ -1,0 +1,11 @@
+# Ignore all .h5 files anywhere in the project
+*.h5
+*.pdb
+*.cif
+
+# Ignore the MD_simulations directory and all its contents
+MD_simulations_old_selection/
+
+# Ignore the large feature sets
+001_ML_ranking/virtual_screening/feature_generation/*.csv
+*.csv

@@ -1,0 +1,21 @@
+<Residues>
+ <Residue name="H5J">
+   <Bond from="CAC" to="CAD"/>
+   <Bond from="CAC" to="CAI"/>
+   <Bond from="CAC" to="H01"/>
+   <Bond from="CAD" to="CAK"/>
+   <Bond from="CAD" to="H02"/>
+   <Bond from="CAE" to="CAJ"/>
+   <Bond from="CAE" to="NAG"/>
+   <Bond from="CAE" to="H03"/>
+   <Bond from="CAF" to="CAI"/>
+   <Bond from="CAF" to="CAJ"/>
+   <Bond from="CAF" to="H04"/>
+   <Bond from="CAI" to="NAL"/>
+   <Bond from="CAJ" to="CAK"/>
+   <Bond from="CAK" to="OAH"/>
+   <Bond from="NAG" to="OAH"/>
+   <Bond from="NAL" to="OAA"/>
+   <Bond from="NAL" to="OAB"/>
+ </Residue>
+</Residues>
